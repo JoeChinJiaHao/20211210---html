@@ -1,0 +1,19 @@
+#Sell{
+    
+    font-style: italic;
+}
+#Push:hover{
+    color:brown;
+
+}
+#Sell:hover{
+    
+    color:brown ;
+}
+
+#Surprise:hover{
+    color:brown;
+}
+#Corner:hover{
+    style:"width:150px;";
+}
